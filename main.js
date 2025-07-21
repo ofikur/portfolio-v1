@@ -2,7 +2,7 @@ document.addEventListener("DOMContentLoaded", function () {
   // --- INISIALISASI EMAILJS ---
   (function () {
     emailjs.init({
-      publicKey: "GANTI_PUBLIC_KEY_DISINI", // Ganti dengan public key yang kamu dapatkan di EmailJS
+      publicKey: "MASUKKAN_PUBLIC_KEY_DISINI", // <-- Ganti ini dengan public key yang kamu dapatkan di EmailJS
     });
   })();
 
@@ -342,8 +342,8 @@ document.addEventListener("DOMContentLoaded", function () {
       return;
     }
     const submitBtn = event.target.querySelector(".submit-btn");
-    const serviceID = "GANTI_SERVICE_ID_DISINI"; // Ganti dengan service id yang kamu dapatkan di EmailJS
-    const templateID = "GANTI_TEMPLATE_ID_DISINI"; // Ganti dengan template id yang kamu dapatkan di EmailJS
+    const serviceID = "MASUKKAN_SERVICE_ID_DISINI"; // <-- Ganti ini dengan service id yang kamu dapatkan di EmailJS
+    const templateID = "MASUKKAN_TEMPLATE_ID_DISINI"; // <-- Ganti ini dengan template id yang kamu dapatkan di EmailJS
     submitBtn.innerHTML = languageData.formSendingBtn[currentLang];
     submitBtn.disabled = true;
     emailjs.sendForm(serviceID, templateID, event.target).then(
