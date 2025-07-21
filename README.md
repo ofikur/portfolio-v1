@@ -20,7 +20,7 @@
 </p>
 
 <p align="center" style="margin-top: 10px;">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=FFD600&center=true&vCenter=true&width=700&lines=Hi%2C+Saya+Ofikurrahman!;Seorang+Front-End+Web+Developer;React%2C+Vue%2C+Node%2C+dan+lainnya!;Terbuka+untuk+Kolaborasi+dan+Proyek+Freelance"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=FFD600&center=true&vCenter=true&width=700&lines=Hi%2C+Saya+Moh.+Ofikurrahman!;Seorang+Front-End+Web+Developer;React%2C+Vue%2C+Node%2C+dan+lainnya!;Terbuka+untuk+Kolaborasi+dan+Proyek+Freelance"/>
 </p>
 
 ---
