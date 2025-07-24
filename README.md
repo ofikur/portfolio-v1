@@ -77,7 +77,7 @@ Untuk menjalankan proyek ini secara lokal:
 
 1.  **Clone repositori ini:**
     ```bash
-    git clone [https://github.com/ofikur/portfolio.git](https://github.com/ofikur/portfolio.git)
+    git clone https://github.com/ofikur/portfolio.git
     ```
 2.  **Buka file `index.html`** di browser Anda.
 3.  **Konfigurasi EmailJS (Opsional):**
