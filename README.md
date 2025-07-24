@@ -48,8 +48,6 @@ Portfolio ini sendiri dibangun dari dasar menggunakan teknologi web fundamental,
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=222)
 ![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=fff)
 ![EmailJS](https://img.shields.io/badge/EmailJS-8B5CF6?style=for-the-badge&logo=javascript&logoColor=fff)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=fff)
-
 ---
 
 ## ⌨️ Perintah Terminal (Khusus Desktop)
