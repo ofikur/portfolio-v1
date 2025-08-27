@@ -42,8 +42,8 @@ const languageData = {
     en: "&gt; Technical Skills",
   },
   projectsTitle: {
-    id: "&gt; Proyek Unggulan",
-    en: "&gt; Featured Projects",
+    id: "&gt; Proyek Unggulan (Contoh)",
+    en: "&gt; Featured Projects (Example)",
   },
   project1Title: {
     id: '<i class="fas fa-shopping-cart"></i> Platform E-Commerce',
