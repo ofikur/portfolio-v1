@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="image/profile.jpg" alt="Profile" width="180" style="border-radius:50%; box-shadow:0 0 30px #FFD600, 0 0 0 8px #0a0a0a; margin-bottom: 10px;">
+  <img src="img/profile.jpg" alt="Profile" width="180" style="border-radius:50%; box-shadow:0 0 30px #FFD600, 0 0 0 8px #0a0a0a; margin-bottom: 10px;">
 </p>
 
 <h1 align="center" style="color:#FFD600; font-size:3rem; text-shadow:2px 2px 0 #0a0a0a; letter-spacing:2px;">
